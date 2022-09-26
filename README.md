@@ -1,4 +1,4 @@
-# Telegram bot YouTube to MP3 converter
+# Telegram bot: YouTube to MP3 converter
 
 Very simplistic implementation of a Telegram bot that, given a message containing a link to a YouTube video, it downloads the video and sends it back to the sender.
 
